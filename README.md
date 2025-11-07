@@ -119,11 +119,11 @@ graph TB
 |-------|------------|--------|-------------|
 | 🗺️ **ERD Design** | Draw.io | ✅ Complete | Entity Relationship Diagram & Database Design |
 | 🗺️ **Mapping** | SQL Server | ✅ Complete | Table Relations & Foreign Key Constraints |
-| 🏗️ **Database Creation** | T-SQL Scripts | ✅ Complete | Full Database Implementation with 25+ Tables |
-| ⚙️ **Stored Procedures** | T-SQL | ✅ Complete | 70+ Procedures for CRUD & Business Logic |
+| 🏗️ **Database Creation** | Python & SQL | ✅ Complete | Full Database Implementation with 25+ Tables |
+| ⚙️ **Stored Procedures** | SQL | ✅ Complete | 70+ Procedures for CRUD & Business Logic |
 | 🏢 **Data Warehouse** | SQL Server | ✅ Complete | Star Schema Design & Implementation |
 | 📋 **SSRS Reports** | SQL Server Reporting Services | ✅ Complete | 6+ Professional Reports |
-| 📊 **20+ Dashboards** | Power BI & Tableau | ✅ Complete | Interactive Business Intelligence |
+| 📊 **20+ Dashboards** | Power BI | ✅ Complete | Interactive Business Intelligence |
 | 📈 **Power BI** | Microsoft Power BI | ✅ Complete | Executive & Operational Dashboards |
 | 🌐 **Website Interface** | Lovable ai | ✅ Complete | Modern Web Application |
 </div>
