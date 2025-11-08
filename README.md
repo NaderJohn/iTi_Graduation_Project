@@ -56,7 +56,7 @@ This project represents a **revolutionary end-to-end solution** designed to tran
 ---
 <div align="center">
 
-*Wanna see a sample of our 20+ Dashboards?*
+***Wanna see a sample of our 20+ Dashboards?***
 
 <img src="assets/dashboard1.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
 <img src="assets/dashboard2.jpg" width="700" style="border-radius:12px;margin:8px 0;"/>
