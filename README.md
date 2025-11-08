@@ -25,7 +25,7 @@ font-family: 'Segoe UI', sans-serif;
 
 <p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/T--SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
 <img src="https://img.shields.io/badge/SSIS-FF6C37?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSIS"/>
 <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSRS"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
